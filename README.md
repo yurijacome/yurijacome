@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">Me chamo Yuri Jácome,<br>Sou um desenvolvedor Fullstack apaixonado por React, participando de diversos projetos resolvendo problemas de alto nível para desenvolver habilidades e buscando sempre aprimorar meus conhecimentos.</p>
+<p align="left">Me chamo Yuri Jácome, e sempre fui movido pela curiosidade e pela vontade de entender como as coisas funcionam. Foi essa busca que me aproximou da programação e me levou a iniciar meus estudos em desenvolvimento web com HTML, CSS e JavaScript.
+Desde então, venho construindo projetos pessoais e acadêmicos que fortaleceram não apenas minha base técnica, mas também minha lógica, capacidade de resolução de problemas e visão prática de desenvolvimento. Gosto do processo de transformar ideias em aplicações reais, pensando tanto na experiência do usuário quanto na estrutura por trás de cada solução.
+Atualmente, estou focado em desenvolvimento fullstack, criando interfaces modernas e responsivas com React e desenvolvendo APIs e aplicações back-end com Node.js. Também trabalho com bancos de dados relacionais e não relacionais, versionamento com Git/GitHub e deploy de aplicações utilizando ferramentas como Vercel, Render e Supabase.
+Além da área técnica, trago experiências profissionais anteriores que fortaleceram habilidades como comunicação, liderança, trabalho sob pressão, autonomia e colaboração em equipe — competências que hoje aplico diretamente no desenvolvimento dos meus projetos.
+Meu objetivo é continuar evoluindo como desenvolvedor, participando da construção de aplicações completas, escaláveis e bem estruturadas, sempre buscando unir aprendizado contínuo, boa experiência de usuário e desenvolvimento de soluções úteis na prática.</p>
 
 ###
 
